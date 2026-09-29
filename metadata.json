@@ -1,0 +1,6 @@
+{
+  "name": "brand — Premium Car Rental",
+  "description": "A private luxury car collection delivered to your door. S-Class to Continental GT, detailed, insured and ready within the hour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
